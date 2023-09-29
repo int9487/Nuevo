@@ -18,16 +18,15 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「𝙿𝚁𝙴𝙲𝙸𝙾𝚂 𝙳𝙴 𝙰𝙻𝙴𝙸𝚉𝙽」
-🎗️ *𝚃𝙴 𝙸𝙽𝙵𝙾𝚁𝙼𝙾 𝚂𝙾𝚈 𝙰𝙻𝙴𝙸𝚉𝙽-𝙼𝙳*-${taguser}
-🧑🏻‍💻 *𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂*: Wa.me/51906830557
+let str = `╭「PRECIOS DE IVAN BOT」
+🎗️ *TE INFORMO SOY IVAN*-${taguser}
+🧑🏻‍💻 *ESTE ES MI NUMERO DE CONSULTAS*: Wa.me/529984856375
 
 🙋🏻‍♂️🙋🏻‍♀️BUSCAS BOTCITO PARA TU GRUPO 24/7⏳
- - TAMBIEN CREO BOTS PARA QUE TU LOS METAS ATUS NUMEROS🤖
- - CREO BOTS A DISEÑOS DE CLANES, TEAMS ,COMUNIDADES ,GRUPOS DE VENTAS🛍️
- - VENDO BOTS PARA TUS GRUPOS🪄
  
- UNETE : https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo
+ - VENDO BOTS PARA TUS GRUPOS 🤖🏴‍☠️
+ 
+ UNETE : https://chat.whatsapp.com/LTXqdFPMr66G9KdqNGfbRI
  `.trim()
 if (m.isGroup) {
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
